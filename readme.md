@@ -1,3 +1,16 @@
+# Planned Changes  
+This project will be a part of my master's thesis and will undergo a complete overhaul, including:  
+
+- Integration of historical data  
+- Addition of match statistics, team lineups, and various betting options  
+- Statistical analysis of each type of bet across leagues, seasons, and the entire dataset  
+- Development of a neural network based on LSTM and time series forecasting, with a dual-purpose approach:  
+  - One network for evaluating the profitability of bets and predicting potential outcomes  
+  - Another network for bet selection and coupon optimization, potentially utilizing a multi-agent system  
+- Comparison of traditional statistical analysis and neural network-based decision-making  
+- If the results demonstrate consistent profitability, transitioning the project to real-time data streaming, enabling automated data retrieval and processing  
+
+
 # Betting Odds Analysis
 Project cointaing:
 - data collection - Betting odds data are collected from today's and tomorrow's matches. The collected data is stored in CSV format. CSV files are merged and supplemented to create comprehensive datasets.
