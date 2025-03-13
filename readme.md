@@ -55,7 +55,8 @@ Simulations have been prepared. Each time simulation starts with 100 money on ac
 In the data visualization file, we can draw a chart for selected leagues and types of bets. Charts can be saved for comparison. It is possible to display a list of matches that ended in failure (you can analyze which clubs do not provide predictable results).
 
 The chart shows the value of the expected profit (without tax) for the plant in the given range. The graph can also be smoothed - we take into account neighboring values, which reduces noise
-![image](https://github.com/kiper22/portfolio/assets/125763668/f8f39a07-45ad-488e-ad6c-30578ee0b2e4)
+![image](https://github.com/user-attachments/assets/8c856bf9-4fd4-4ddc-8221-d38b8bed9e7f)
+
 
 ## Neural Networks
 NN are under development. Lately i found web page with huge amount of match data which can be used to learning. Currently, a version for a very simple NN has been prepared.
